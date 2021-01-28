@@ -1,0 +1,22 @@
+[
+    {
+        nama: `Fadli`,
+        nim: 20102050051,
+        email: `stupidlearner0407@gmail.com`
+    },
+    {
+        nama: `Abrar`,
+        nim: 20102050051,
+        email: `stupidlearner0407@gmail.com`
+    },
+    {
+        nama: `Udid`,
+        nim: 20102050051,
+        email: `stupidlearner0407@gmail.com`
+    },
+    {
+        nama: `Adod`,
+        nim: 20102050051,
+        email: `stupidlearner0407@gmail.com`
+    },
+];
